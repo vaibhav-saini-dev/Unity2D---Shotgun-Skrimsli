@@ -8,5 +8,3 @@
 
 ## ❓ How To Play ❓
 - To play the game, download this file as a zip, unzip it, open the build folder, and click on "Shotgun Skrimsli.exe".
-
-- You can also play this game on itch.io: https://mochawaffle.itch.io/shotgun-skrimsli
